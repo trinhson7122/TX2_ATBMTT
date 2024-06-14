@@ -1,6 +1,6 @@
 <?php
 
-Class Ceasar
+class Ceasar
 {
     private array $z = [];
     private int $mod = 0;
